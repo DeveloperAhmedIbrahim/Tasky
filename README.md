@@ -1,1 +1,1 @@
-## Tasky Application base on HTML, CSS, JavaScript.
+## Tasky Application based on HTML, CSS, JavaScript.
